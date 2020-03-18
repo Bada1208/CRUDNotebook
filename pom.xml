@@ -78,6 +78,12 @@
         <scope>provided</scope>
     </dependency>
     <!-- JSTL dependency -->
+    <!-- https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl-api -->
+    <dependency>
+        <groupId>javax.servlet.jsp.jstl</groupId>
+        <artifactId>jstl-api</artifactId>
+        <version>1.2</version>
+    </dependency>
 
     <!-- JUnit -->
     <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
