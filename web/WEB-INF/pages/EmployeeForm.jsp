@@ -19,12 +19,12 @@
                 <td><form:input path="name"/></td>
             </tr>
             <tr>
-                <td>Email:</td>
-                <td><form:input path="email"/></td>
+                <td>Surname:</td>
+                <td><form:input path="surname"/></td>
             </tr>
             <tr>
-                <td>Address:</td>
-                <td><form:input path="address"/></td>
+                <td>Email:</td>
+                <td><form:input path="email"/></td>
             </tr>
             <tr>
                 <td>Telephone:</td>

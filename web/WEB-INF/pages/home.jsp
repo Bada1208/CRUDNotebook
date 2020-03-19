@@ -28,8 +28,8 @@
                 <td>${employee.email}</td>
                 <td>${employee.telephone}</td>
                 <td><a href="editEmployee?id=${employee.id}">Edit</a>
-                    &nbsp;&nbsp;&nbsp;&nbsp; <a
-                            href="deleteEmployee?id=${employee.id}">Delete</a></td>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a href="deleteEmployee?id=${employee.id}">Delete</a></td>
 
             </tr>
         </c:forEach>
